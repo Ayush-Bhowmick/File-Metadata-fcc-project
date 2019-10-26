@@ -14,7 +14,7 @@ A project made for **APIs & Microservices Module** at FreeCodeCamp.
 
 This is how the UI looks like:
 
-![Screenshot](Screenshot.png "Screenshot")
+
 
 #### Try it
 Check a real working example using this API on the following link.
